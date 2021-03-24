@@ -1610,7 +1610,7 @@
 
 "@metamask/controllers@file:./metamask-controllers-v7.0.0-beta.0.tgz":
   version "7.0.0-beta.0"
-  resolved "file:./metamask-controllers-v7.0.0-beta.0.tgz#dd68d07bc46da0b3a9e812e43cc766b670858d15"
+  resolved "file:./metamask-controllers-v7.0.0-beta.0.tgz#858faa11c8fa459f268bcb57be5474cb33137d07"
   dependencies:
     "@metamask/contract-metadata" "^1.23.0"
     "@types/uuid" "^8.3.0"
